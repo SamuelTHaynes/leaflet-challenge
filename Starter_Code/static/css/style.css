@@ -1,0 +1,19 @@
+/* Defining legend */
+.info.legend {
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-size: 14px;
+}
+
+.info.legend div {
+  margin-bottom: 5px;
+}
+
+/* Styling*/
+.info.legend i {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 5px;
+}
